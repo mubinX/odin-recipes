@@ -1,0 +1,27 @@
+body {
+    background-color: #F9FBE7;
+    font-family: monospace, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.recipe-list {
+    text-decoration: none;
+}
+
+.recipe-list a {
+    text-decoration: none;
+    color: green;
+}
